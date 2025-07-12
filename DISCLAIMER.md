@@ -59,7 +59,7 @@
 
 **9.1** If you are a rights holder and have questions or concerns about the contents of any repository within this organization, please contact us at:
 
-**[reverseclinic.babble334@passinbox.com](mailto:reverseclinic.babble334@passinbox.com)**
+**[reverseclinic@proton.me](mailto:reverseclinic@proton.me)**
 
 **9.2** We take intellectual property matters seriously and will respond to valid inquiries **within seven (7) business days of receiving the message**.
 

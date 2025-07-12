@@ -56,7 +56,7 @@ Leaders have the right and responsibility to remove, edit, or reject comments, c
 
 ## Reporting Violations
 
-If you believe someone is violating the Code of Conduct, please report it by emailing [reverseclinic.babble334@passinbox.com](mailto:reverseclinic.babble334@passinbox.com). All complaints will be reviewed and investigated promptly and fairly.
+If you believe someone is violating the Code of Conduct, please report it by emailing [reverseclinic@proton.me](mailto:reverseclinic@proton.me). All complaints will be reviewed and investigated promptly and fairly.
 
 Community leaders are obligated to respect the privacy and security of reporters of any incident.
 
@@ -108,4 +108,4 @@ A translated version of the original text is available at: [Contributor Covenant
 
 ## Questions?
 
-If you have questions about this Code of Conduct, please contact [reverseclinic.babble334@passinbox.com](mailto:reverseclinic.babble334@passinbox.com).
+If you have questions about this Code of Conduct, please contact [reverseclinic@proton.me](mailto:reverseclinic@proton.me).
