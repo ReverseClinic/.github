@@ -14,7 +14,7 @@
 </div>
 
 
-**ReverseClinic** is a **non-profit organization** based in **Seattle, WA**, focused on supporting **academic research** in software analysis and reverse engineering.  
+**ReverseClinic** is a **non-profit organization**, focused on supporting **academic research** in software analysis and reverse engineering.  
 Our work brings together **tools**, **practices**, and **communities** that aim to deepen understanding of how software behaves, changes, and interacts across different platforms and contexts.
 
 We develop and maintain open-source projects that facilitate:
