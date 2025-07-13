@@ -1,8 +1,7 @@
 > [!IMPORTANT] 
 > **Legal Notice and Disclaimer**  
 > This organization is dedicated to academic research in software analysis and system security.  
-> For more information on our mission, permitted use, and legal disclaimers,  
-> please refer to our [Disclaimer Statement](/DISCLAIMER.md).
+> For more information on our mission, permitted use, and legal disclaimers, please refer to our [Disclaimer Statement](/DISCLAIMER.md).
 
 > [!WARNING]
 > **Notice to Organization Members**  

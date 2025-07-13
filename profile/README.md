@@ -25,6 +25,7 @@ We develop and maintain open-source projects that support:
 
 By fostering an **open**, **research-oriented** environment, ReverseClinic encourages **knowledge sharing** and **technical rigor** in the study of software systems.
 
+For information about our research scope, permitted uses, and legal disclaimers, please refer to the [Disclaimer Statement](/DISCLAIMER.md).
 
 ---
 
